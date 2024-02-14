@@ -1,0 +1,10 @@
+.DS_Store
+
+**/mlruns/**
+
+**/outputs/**
+**/run-**
+
+*.log
+*.pyc
+**/multirun/**
